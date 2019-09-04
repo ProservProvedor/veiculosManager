@@ -1,4 +1,4 @@
-# veiculosmanager
+# veiculosManager
 
 Este e um script de um intalador do controle de veiculos.
 
